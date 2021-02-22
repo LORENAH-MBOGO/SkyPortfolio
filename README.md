@@ -20,7 +20,7 @@
 
 ## GitHub Link.
 
-### https://lorenah-mbogo.github.io/MyPortfolio/
+### https://lorenah-mbogo.github.io/SkyPortfolio/
 
 ## Technologies Used
 
